@@ -1,1 +1,4 @@
 This Language Translator is built using Python and designed to facilitate seamless communication across different languages. Users can input text and receive instant translations in various languages. Utilizing reliable translation APIs, this tool aims to bridge language gaps, making it ideal for travelers, students, and anyone looking to connect globally. Enjoy a user-friendly interface and quick translations at your fingertips!
+![WhatsApp Image 2024-09-21 at 12 51 39 PM (1)](https://github.com/user-attachments/assets/24193888-8fc4-474e-ace2-06950a7e23ab)
+![WhatsApp Image 2024-09-21 at 12 51 38 PM](https://github.com/user-attachments/assets/88290228-f9de-424c-8749-33e14c39e4de)
+![WhatsApp Image 2024-09-21 at 12 51 39 PM](https://github.com/user-attachments/assets/4137beba-9c44-4541-90a8-044e3a33b423)
